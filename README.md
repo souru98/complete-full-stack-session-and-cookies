@@ -37,7 +37,4 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 4. Make the session invalidate once you click logout.
 
 
-## Progression 2:
-
-
 Happy Coding ❤️
