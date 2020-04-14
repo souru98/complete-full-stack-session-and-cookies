@@ -18,6 +18,8 @@
 <li><a href="${PageContext.request.contextPath}/allblogs">All Blogs</a></li>
 <li><a href="${PageContext.request.contextPath}/login">Login</a></li>
 <li><a href="${PageContext.request.contextPath}/signup">Sign Up</a></li>
+<li><a href="${PageContext.request.contextPath}/login" /><button type="button" id="delete">Logout</button></a></a></li>
+
 </ul>
 </nav>
 <div class="body-div1">
